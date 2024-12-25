@@ -6,8 +6,12 @@ const MonsterList = () => {
 
     useEffect(() => {
         const fetchMonsters = async () => {
-            const response = await axios.get('/api/monsters');
-            setMonsters(response.data);
+            try {
+                const response = await axios.get('http://localhost:3000/api/monsters');
+                setMonsters(response.data);
+            } catch (error) {
+                console.error('Error fetching monsters:', error);
+            }
         };
         fetchMonsters();
     }, []);

@@ -9,11 +9,15 @@ const MonsterForm = ({ onMonsterAdded }) => {
     const handleSubmit = async (e) => {
         e.preventDefault();
         const newMonster = { name, type, hitPoints };
-        await axios.post('/api/monsters', newMonster);
-        onMonsterAdded(newMonster);
-        setName('');
-        setType('');
-        setHitPoints('');
+        try {
+            const response = await axios.post('http://localhost:3000/api/monsters', newMonster);
+            onMonsterAdded(response.data);
+            setName('');
+            setType('');
+            setHitPoints('');
+        } catch (error) {
+            console.error('Error adding monster:', error);
+        }
     };
 
     return (
