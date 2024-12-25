@@ -1,24 +1,38 @@
-import React, { useEffect, useState } from 'react';
+import React, { useState } from 'react';
 import axios from 'axios';
 
-const MonsterList = () => {
-    const [monsters, setMonsters] = useState([]);
+const MonsterForm = ({ onMonsterAdded }) => {
+    const [name, setName] = useState('');
+    const [type, setType] = useState('');
+    const [hitPoints, setHitPoints] = useState('');
 
-    useEffect(() => {
-        const fetchMonsters = async () => {
-            const response = await axios.get('/api/monsters');
-            setMonsters(response.data);
-        };
-        fetchMonsters();
-    }, []);
+    const handleSubmit = async (e) => {
+        e.preventDefault();
+        const newMonster = { name, type, hitPoints };
+        await axios.post('/api/monsters', newMonster);
+        onMonsterAdded(newMonster);
+        setName('');
+        setType('');
+        setHitPoints('');
+    };
 
     return (
-        <ul>
-            {monsters.map((monster) => (
-                <li key={monster.id}>{monster.name} - {monster.type} - {monster.hitPoints} HP</li>
-            ))}
-        </ul>
+        <form onSubmit={handleSubmit}>
+            <label>
+                Name:
+                <input type="text" value={name} onChange={(e) => setName(e.target.value)} required />
+            </label>
+            <label>
+                Type:
+                <input type="text" value={type} onChange={(e) => setType(e.target.value)} required />
+            </label>
+            <label>
+                Hit Points:
+                <input type="number" value={hitPoints} onChange={(e) => setHitPoints(e.target.value)} required />
+            </label>
+            <button type="submit">Add Monster</button>
+        </form>
     );
 };
 
-export default MonsterList;
+export default MonsterForm;

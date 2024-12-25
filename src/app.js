@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import ReactDOM from 'react-dom';
 import MonsterForm from './components/MonsterForm';
 import MonsterList from './components/MonsterList';
@@ -12,10 +12,14 @@ const App = () => {
 
     return (
         <div>
-            <MonsterForm onMonsterAdded={handleMonsterAdded} />
-            <MonsterList monsters={monsters} />
+            <section id="monster-form">
+                <MonsterForm onMonsterAdded={handleMonsterAdded} />
+            </section>
+            <section id="monster-list">
+                <MonsterList monsters={monsters} />
+            </section>
         </div>
     );
 };
 
-ReactDOM.render(<App />, document.getElementById('monster-form'));
+ReactDOM.render(<App />, document.getElementById('root'));
