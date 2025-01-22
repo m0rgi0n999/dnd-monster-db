@@ -162,179 +162,63 @@ rainbow-hued manes and tails.
 
 COMBAT
 
-Asperis are inoffensive
-creatures by nature. Given
-their great speed, their
-usual response to danger
-is simply to fly away.
-Like most horses, however, they can fight
-ferociously when
-aroused. In combat, they usually
-kick and slash
-with their front
-hooves and bite
-with their powerful jaws.
-Asperis prefer
-to fight from the air,
-which gives them a
-significant advantage
-against opponents on the
-ground, under the right conditions. Near their mountain homes, asperis
-always look for opportunities to attack intruders
-when the latter are at the edges of cliffs or maneuvering on
-narrow ledges. The wind steeds use combinations of
-charges, bull rushes, flyby attacks, and trip attacks (all
-while airborne) to force their enemies over precipices or
-into glacial crevasses. They usually prefer to use their
-speed and maneuverability to avoid combat until conditions are in their favor.
-Cold Subtype (Ex): An asperi is immune to cold damage
-but takes double damage from fire unless a saving throw for
-half damage is allowed. In that case, the creature takes half
-damage on a success and double damage on a failure.
-Dodge Arrows (Ex): A flying asperi gains a +2 dodge
-bonus to AC against any missile attack during any turn in
-which it takes a move action. If it has a rider, he or she
-also gains the bonus. The bonus lasts until the asperi’s
-next turn.
-Feather Fall (Sp): An asperi can use feather fall up to four
-times per day. Caster level 4th.
-Ride the Wind (Su): This ability is similar to the effect
-of the air walk spell in most respects. When an asperi uses
-ride the wind, it gains bonus movement (+1 ft. to fly speed
-for each 1 mph of the prevailing wind) when moving with
-winds faster than 20 mph. Adverse winds do not slow the
-creature down, but they provide no bonus movement.
-An asperi carrying a rider gallops through the air so
-smoothly that the rider can cast spells
-without making Concentration checks,
-provided that the asperi does not
-attack or perform any sudden
-aerial maneuvers.
-Telepathy (Su): An
-asperi can communicate
-with any creature that
-has an Intelligence score
-of at least 1 through a
-form of telepathy. This
-communication has
-a range of 60 feet,
-and its complexity
-is limited by the Intelligence score of the other
-creature.
-Uncanny Dodge (Ex):
-Because of its preternatural alertness, an asperi retains its Dexterity bonus to
-AC even when flat-footed,
-and it cannot be flanked.
-Wind Immunity (Ex):
-Winds, either natural or magical, have no effect on an asperi
-unless it chooses to ride them for
-additional movement (see Ride the
-Wind, above). This benefit applies equally to
-mountain gales, magical windstorms, elemental whirlwinds, and other similar effects.
+Asperis are inoffensive creatures by nature. Given their great speed, their usual response to danger is simply to fly away. Like most horses, however, they can fight ferociously when aroused. In combat, they usually kick and slash with their front hooves and bite with their powerful jaws.
+Asperis prefer to fight from the air, which gives them a significant advantage against opponents on the ground, under the right conditions. Near their mountain homes, asperis always look for opportunities to attack intruders when the latter are at the edges of cliffs or maneuvering on narrow ledges. The wind steeds use combinations of charges, bull rushes, flyby attacks, and trip attacks (all while airborne) to force their enemies over precipices or into glacial crevasses. They usually prefer to use their speed and maneuverability to avoid combat until conditions are in their favor.
+Cold Subtype (Ex): An asperi is immune to cold damage but takes double damage from fire unless a saving throw for half damage is allowed. In that case, the creature takes half damage on a success and double damage on a failure.
+Dodge Arrows (Ex): A flying asperi gains a +2 dodge bonus to AC against any missile attack during any turn in which it takes a move action. If it has a rider, he or she also gains the bonus. The bonus lasts until the asperi’s next turn.
+Feather Fall (Sp): An asperi can use feather fall up to four times per day. Caster level 4th.
+Ride the Wind (Su): This ability is similar to the effect of the air walk spell in most respects. When an asperi uses ride the wind, it gains bonus movement (+1 ft. to fly speed for each 1 mph of the prevailing wind) when moving with winds faster than 20 mph. Adverse winds do not slow the creature down, but they provide no bonus movement.
+An asperi carrying a rider gallops through the air so smoothly that the rider can cast spells without making Concentration checks, provided that the asperi does not attack or perform any sudden aerial maneuvers.
+Telepathy (Su): An asperi can communicate with any creature that has an Intelligence score of at least 1 through a form of telepathy. This communication has a range of 60 feet, and its complexity is limited by the Intelligence score of the other creature.
+Uncanny Dodge (Ex): Because of its preternatural alertness, an asperi retains its Dexterity bonus to AC even when flat-footed, and it cannot be flanked.
+Wind Immunity (Ex): Winds, either natural or magical, have no effect on an asperi unless it chooses to ride them for additional movement (see Ride the Wind, above). This benefit applies equally to mountain gales, magical windstorms, elemental whirlwinds, and other similar effects.
+
 TRAINING AN ASPERI
-Young asperis are worth 7,000 gp per head. They mature at
-the same rate as horses do. A professional trainer charges
-2,000 gp to rear an asperi or to train it as a mount.
-Training an asperi requires a successful Handle Animal
-check (DC 22 for a young asperi, DC 29 for an adult) and the
-willing cooperation of the creature. An asperi can fight
-while carrying a rider, but the rider cannot also attack unless
-he or she succeeds at a Ride check.
-Carrying Capacity: A light load for an asperi is up to 150
-pounds; a medium load, 151–300 pounds; and a heavy load,
-301–450 pounds. Unlike most flying mounts, an asperi can
-fly with a medium or heavy load, thanks to its ride the
-wind ability.
-ASPERIAn automaton is a creature built for labor or
-war. Although the
-construct is superficially similar to
-a golem, an automaton is actually quite different. It is built with
-clockwork parts and animated
-by means of powerful shadow
-magic. While the shadow
-consciousness of an automaton sometimes makes it
-difficult for the creature to
-interact with the physical
-world, it nevertheless can be a
-fearsome opponent.
+
+Young asperis are worth 7,000 gp per head. They mature at the same rate as horses do. A professional trainer charges 2,000 gp to rear an asperi or to train it as a mount.
+Training an asperi requires a successful Handle Animal check (DC 22 for a young asperi, DC 29 for an adult) and the willing cooperation of the creature. An asperi can fight while carrying a rider, but the rider cannot also attack unless he or she succeeds at a Ride check.
+Carrying Capacity: A light load for an asperi is up to 150 pounds; a medium load, 151–300 pounds; and a heavy load, 301–450 pounds. Unlike most flying mounts, an asperi can fly with a medium or heavy load, thanks to its ride the wind ability.
+
+						AUTOMATON
+						Pulverizer 								Hammerer
+						Medium-Size Construct 					Medium-Size Construct
+Hit Dice: 				3d10 (16 hp) 							5d10 (27 hp)
+Initiative: 			+0 										+0
+Speed: 					40 ft. 									20 ft.
+AC: 					21 (+11 natural), touch 10,				21 (+11 natural), touch 10,
+						flat-footed 21							flat-footed 21
+Attacks: 				2 slams +7 melee 						Slam +10 melee
+Damage: 				Slam 1d6+5 								Slam 2d8+10
+Space/Reach: 			5 ft. by 5 ft./5 ft. 					5 ft. by 5 ft./5 ft.
+Special Attacks: 		Sonic shriek 							—
+Special Qualities: 		Blindsight 40 ft., construct traits,	Construct traits, unreliable
+						unreliable
+Saves: 					Fort +1, Ref +1, Will +0 				Fort +1, Ref +1, Will +0
+Abilities: 				Str 21, Dex 11, Con —					Str 25, Dex 11, Con —, 
+						Int —, Wis 9, Cha 4						Int —, Wis 9, Cha 4
+Climate/Terrain: 		Any land and underground 				Any land and underground
+Organization: 			Solitary, pair, or team (3–5) 			Solitary, pair, or team (3–5)
+Challenge Rating: 		3 										3
+Treasure: 				None 									None
+Alignment: 				Always neutral 							Always neutral
+Advancement: 			4–8 HD (Medium-size); 9 HD (Large) 		6–8 HD (Medium-size); 9–15 HD (Large)28
+
+An automaton is a creature built for labor or war. Although the construct is superficially similar to a golem, an automaton is actually quite different. It is built with clockwork parts and animated by means of powerful shadow magic. While the shadow consciousness of an automaton sometimes makes it difficult for the creature to interact with the physical world, it nevertheless can be a fearsome opponent.
+
 COMBAT
-Like golems, automatons
-are mindless but tenacious
-combatants. Since they are
-emotionless in combat, they
-are not easily provoked. Automatons don’t use weapons, even if
-ordered to do so. Instead, they always
-strike with their limbs, which are formidable
-weapons in themselves.
-An automaton follows the orders of its creator. The creature can be commanded directly by its creator if the latter
-is within 60 feet and both visible and audible to the
-automaton. If uncommanded, an automaton follows its
-last instruction to the best of its ability, though it returns
-any attacks directed at it. Typically, the creator gives an
-automaton a simple set of instructions (such as “Remain
-in this area and attack all creatures that enter,” or “Attack
-all bipedal creatures you see,” or “Ring a gong and
-attack,” or the like) to govern its actions in his or
-her absence.
-Construct Traits: An
-automaton is immune to
-mind-affecting effects,
-poison, sleep, paralysis,
-stunning, disease, death
-effects, necromantic effects, and any effect that
-requires a Fortitude save
-unless it also works on
-objects. The creature is
-not subject to critical hits,
-subdual damage, ability
-damage, ability drain, energy drain, or death from
-massive damage. It
-cannot heal itself
-but can be healed
-through repair. It
-cannot be raised or
-resurrected. An automaton has darkvision (60-foot range).
-Unreliable (Ex): The
-shadow consciousness of
-an automaton is only quasireal, like the consciousness of a
-27
-AUTOMATON
-AUTOMATON
-Pulverizer Hammerer
-Medium-Size Construct Medium-Size Construct
-Hit Dice: 3d10 (16 hp) 5d10 (27 hp)
-Initiative: +0 +0
-Speed: 40 ft. 20 ft.
-AC: 21 (+11 natural), touch 10, flat-footed 21 21 (+11 natural), touch 10, flat-footed 21
-Attacks: 2 slams +7 melee Slam +10 melee
-Damage: Slam 1d6+5 Slam 2d8+10
-Space/Reach: 5 ft. by 5 ft./5 ft. 5 ft. by 5 ft./5 ft.
-Special Attacks: Sonic shriek —
-Special Qualities: Blindsight 40 ft., construct traits, unreliable Construct traits, unreliable
-Saves: Fort +1, Ref +1, Will +0 Fort +1, Ref +1, Will +0
-Abilities: Str 21, Dex 11, Con —, Int —, Wis 9, Cha 4 Str 25, Dex 11, Con —, Int —, Wis 9, Cha 4
-Climate/Terrain: Any land and underground Any land and underground
-Organization: Solitary, pair, or team (3–5) Solitary, pair, or team (3–5)
-Challenge Rating: 3 3
-Treasure: None None
-Alignment: Always neutral Always neutral
-Advancement: 4–8 HD (Medium-size); 9 HD (Large) 6–8 HD (Medium-size); 9–15 HD (Large)28
-creation such as a simulacrum. The creature is thus sometimes slow to react to the changing environment around it.
-At the beginning of each round in which an automaton
-attempts to act, roll 1d20. On a result of 11 or better, it acts
-normally; otherwise, it takes no action.
+
+Like golems, automatons are mindless but tenacious combatants. Since they are emotionless in combat, they are not easily provoked. Automatons don’t use weapons, even if ordered to do so. Instead, they always strike with their limbs, which are formidable weapons in themselves.
+An automaton follows the orders of its creator. The creature can be commanded directly by its creator if the latter is within 60 feet and both visible and audible to the automaton. If uncommanded, an automaton follows its last instruction to the best of its ability, though it returns any attacks directed at it. Typically, the creator gives an automaton a simple set of instructions (such as “Remain in this area and attack all creatures that enter,” or “Attack all bipedal creatures you see,” or “Ring a gong and attack,” or the like) to govern its actions in his or her absence.
+Construct Traits: An automaton is immune to mind-affecting effects, poison, sleep, paralysis, stunning, disease, death effects, necromantic effects, and any effect that requires a Fortitude save unless it also works on objects. The creature is not subject to critical hits, subdual damage, ability damage, ability drain, energy drain, or death from massive damage. It cannot heal itself but can be healed through repair. It cannot be raised or resurrected. An automaton has darkvision (60-foot range).
+Unreliable (Ex): The shadow consciousness of an automaton is only quasireal, like the consciousness of a creation such as a simulacrum. The creature is thus sometimes slow to react to the changing environment around it.
+At the beginning of each round in which an automaton attempts to act, roll 1d20. On a result of 11 or better, it acts normally; otherwise, it takes no action.
+
 PULVERIZER
-The pulverizer automaton was originally intended as a
-mining machine. Its sonic shriek was designed to weaken
-stone, and its wedges to finish the job of breaking it up.
-Thanks to its blindsight ability, this construct is particularly
-effective underground.
-A pulverizer looks something like a four-legged, metal
-lobster with spiked wedges instead of claws. Instead of a
-head, it has a round opening at the top of its body from
-which it emits its sonic attacks.
+The pulverizer automaton was originally intended as a mining machine. Its sonic shriek was designed to weaken stone, and its wedges to finish the job of breaking it up. Thanks to its blindsight ability, this construct is particularly effective underground.
+A pulverizer looks something like a four-legged, metal lobster with spiked wedges instead of claws. Instead of a head, it has a round opening at the top of its body from which it emits its sonic attacks.
+
 Combat
-When attacking, a lone pulverizer usually looses its sonic
+When attacking, a lone pulverizer usually looses its sonicX
 shriek, then moves in to use its slam attacks against any
 foes who are still moving. Teams of these creatures pose a
 formidable threat on the battlefield, since one or more can
